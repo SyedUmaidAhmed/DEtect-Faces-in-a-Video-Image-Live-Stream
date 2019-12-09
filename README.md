@@ -1,5 +1,5 @@
-# DEtect-Faces-in-a-Video-Image-Live-Stream
-DEtect Faces in a Video/Image/Live Stream using GPU and HOG detector
+# Detect-Faces-in-a-Video-Image-Live-Stream
+Detect Faces in a Video/Image/Live Stream using GPU and HOG detector
 
 Make an folder named as "dataset" with all the files
 
